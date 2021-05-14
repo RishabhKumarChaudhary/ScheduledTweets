@@ -1,9 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is an example app for covering basics of Rails
 
-Things you may want to cover:
+
+Things we covered:
 
 * Ruby version
 
@@ -21,4 +21,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
